@@ -115,7 +115,7 @@ export default {
     },
     orderConfirm: {
       title: "Ordem Alterada",
-      message: "Ordem alterada com sucesso para",
+      message: "Ordem alterada com sucesso!",
       confirmText: "OK",
     },
     defaultDesc: {

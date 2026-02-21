@@ -110,7 +110,7 @@ export default {
     },
     orderConfirm: {
       title: "Order Changed",
-      message: "Order successfully changed to",
+      message: "Order successfully changed!",
       confirmText: "OK",
     },
     langConfirm: {

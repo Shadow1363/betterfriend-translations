@@ -110,7 +110,7 @@ export default {
     },
     orderConfirm: {
       title: "Порядок Изменён",
-      message: "Сортировка изменена на",
+      message: "Сортировка изменена!",
       confirmText: "ОК",
     },
     langConfirm: {
