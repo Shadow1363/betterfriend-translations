@@ -2,7 +2,7 @@
 
 Help make BetterFriend accessible to everyone by contributing translations! 💜
 
-## 🧩 How It Works
+## How It Works
 
 1. Fork this repository
 
@@ -12,9 +12,9 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 
    - Use en.js as a template
    - Rename it using the 2-letter ISO language code:
-     - en.js (English)
-     - pt.js (Portuguese)
-     - es.js (Spanish)
+     - `en.js` (English)
+     - `pt.js` (Portuguese)
+     - `es.js` (Spanish)
      - etc.
 
 4. Translate all values while keeping the keys unchanged
@@ -31,6 +31,17 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 
 - Keep translations clear and natural, not literal when it sounds wrong
 
-- Make sure your file passes validator.js before submitting
+- Make sure your file passes `validator.js` before submitting
 
 - One language per PR (keeps reviews simple)
+
+## Current Implemented Languages
+
+- English (en.js)
+- Portuguese (pt.js)
+- Spanish (es.js)
+
+### Planned
+
+- Russian (ru.js)
+- Vietnamese (vi.js)
