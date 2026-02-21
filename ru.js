@@ -42,7 +42,14 @@ export default {
   meetday: "Дата Знакомства",
   totalContactsSelected: "Выбранные Контакты:",
   alertErrorReset: "Произошла Ошибка при Сбросе Приложения, Попробуйте Снова.",
+  errorLoadNotifications: "Не удалось загрузить уведомления.",
   modal: {
+    deleteNotification: "Delete this notification?",
+    missingRequiredInfo: {
+      title: "Отсутствуют обязательные данные",
+      message: "Пожалуйста, введите имя друга.",
+      confirmText: "Понятно",
+    },
     default: {
       title: "Подтверждение Действия",
       message: "Вы Уверены?",
@@ -140,17 +147,18 @@ export default {
         date: "Дата и Время",
         repeats: "Повторять?",
       },
-      priorities: {
-        low: "Малозначимый",
-        medium: "Средний",
-        high: "Важный",
-      },
+      deleteNotification: "Вы уверены? Уведомление будет удалено навсегда.",
       repeats: {
         no: "Нет",
         year: "Ежегодно",
         month: "Ежемесячно",
         week: "Еженедельно",
         day: "Ежедневно",
+      },
+      error: {
+        title: "Ошибка",
+        message:
+          "Не удалось запланировать уведомление. Пожалуйста, проверьте дату.",
       },
     },
     editFriend: {

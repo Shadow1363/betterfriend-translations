@@ -45,7 +45,11 @@ export default {
   errorLoadNotifications: "Failed to load notifications.",
   modal: {
     deleteNotification: "Delete this notification?",
-    friendNameRequired: "Please enter a friend's name.",
+    missingRequiredInfo: {
+      title: "Missing Required Information",
+      message: "Please enter a friend's name.",
+      confirmText: "Understood",
+    },
     default: {
       title: "Confirm Action",
       message: "Are you sure?",
@@ -143,17 +147,16 @@ export default {
         date: "Date & Time",
         repeats: "Repeats?",
       },
-      priorities: {
-        low: "Low",
-        medium: "Medium",
-        high: "High",
-      },
       repeats: {
         no: "No",
         year: "Yearly",
         month: "Monthly",
         week: "Weekly",
         day: "Daily",
+      },
+      error: {
+        title: "Error",
+        message: "Failed to schedule notification. Please check the date.",
       },
     },
     editFriend: {

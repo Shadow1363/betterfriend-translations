@@ -43,7 +43,13 @@ export default {
   meetday: "Dia que conheceu",
   totalContactsSelected: "Total de Contatos Selecionados:",
   alertErrorReset: "Houve um erro ao resetar o app. Tente novamente.",
+  errorLoadNotifications: "Erro ao carregar notificações.",
   modal: {
+    missingRequiredInfo: {
+      title: "Informações obrigatórias ausentes",
+      message: "Por favor insira o nome de um amigo.",
+      confirmText: "Entendi",
+    },
     default: {
       title: "Confirmar Ação",
       message: "Tem certeza?",
@@ -141,11 +147,6 @@ export default {
         date: "Data e Hora",
         repeats: "Repete?",
       },
-      priorities: {
-        low: "Baixa",
-        medium: "Média",
-        high: "Alta",
-      },
       repeats: {
         no: "Não",
         year: "Anualmente",
@@ -153,7 +154,13 @@ export default {
         week: "Semanalmente",
         day: "Diariamente",
       },
+      error: {
+        title: "Erro",
+        message: "Não foi possível agendar a notificação. Verifique a data.",
+      },
     },
+    deleteNotification:
+      "¿Estás seguro? Esta notificación se eliminará permanentemente.",
     editFriend: {
       title: "Editar Amigo",
       message: "Atualize as informações do amigo abaixo:",
