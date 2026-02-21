@@ -10,8 +10,8 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 
 3. Add your translation file:
 
-   - Use en.js as a template
-   - Rename it using the 2-letter ISO language code:
+   - Use `en.js` as a template
+   - Rename it using the [2-letter ISO language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes):
      - `en.js` (English)
      - `pt.js` (Portuguese)
      - `es.js` (Spanish)
