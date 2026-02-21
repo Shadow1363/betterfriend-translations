@@ -109,7 +109,8 @@ export default {
         "Mais Interagido",
         "Menos Interagido",
         "Última Edição",
-        // "Aniversário mais próximo",
+        "Aniversário mais próximo",
+        "Dia que conheceu mais próximo",
       ],
     },
     orderConfirm: {

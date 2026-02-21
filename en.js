@@ -104,7 +104,8 @@ export default {
         "Most Interacted",
         "Least Interacted",
         "Last Edited",
-        // "Upcoming Birthday",
+        "Upcoming Birthday",
+        "Upcoming Meetday",
       ],
     },
     orderConfirm: {

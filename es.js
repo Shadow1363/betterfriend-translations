@@ -109,7 +109,8 @@ export default {
         "Más Interactuado",
         "Menos Interactuado",
         "Última Edición",
-        // "Cumpleaños más cercano",
+        "Cumpleaños más cercano",
+        "Día en que conocieron más cercano",
       ],
     },
     orderConfirm: {
