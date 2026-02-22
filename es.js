@@ -118,6 +118,13 @@ export default {
       message: "Orden cambiado exitosamente!",
       confirmText: "OK",
     },
+    macOS: {
+      title: "Success",
+      message: "Platform successfully changed to",
+      ios: "iOS",
+      mac: "macOS",
+      confirmText: "OK",
+    },
     defaultDesc: {
       title: "Actualizar Descripción",
       message: "Ingresa tu descripción predeterminada del amigo:",

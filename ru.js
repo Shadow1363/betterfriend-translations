@@ -118,6 +118,13 @@ export default {
       message: "Язык был изменён на русский.",
       confirmText: "ОК",
     },
+    macOS: {
+      title: "Success",
+      message: "Platform successfully changed to",
+      ios: "iOS",
+      mac: "macOS",
+      confirmText: "OK",
+    },
     defaultDesc: {
       title: "Изменить Описание",
       message: "Описание:",

@@ -118,6 +118,13 @@ export default {
       message: "Language successfully changed to English.",
       confirmText: "OK",
     },
+    macOS: {
+      title: "Success",
+      message: "Platform successfully changed to",
+      ios: "iOS",
+      mac: "macOS",
+      confirmText: "OK",
+    },
     defaultDesc: {
       title: "Update Description",
       message: "Enter your default friend description:",
