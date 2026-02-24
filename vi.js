@@ -42,7 +42,14 @@ export default {
   meetday: "Ngày gặp",
   totalContactsSelected: "Tổng thông tin liên lạc đã chọn:",
   alertErrorReset: "Có lỗi xảy ra khi khởi động lại ứng dụng. Hãy thử lại sau.",
+  errorLoadNotifications: "Tải thông báo không thành công.",
   modal: {
+    deleteNotification: "Xóa thông báo này?",
+    missingRequiredInfo: {
+      title: "Thiếu Thông Tin Bắt Buộc",
+      message: "Vui lòng nhập tên của bạn.",
+      confirmText: "Đã hiểu",
+    },
     default: {
       title: "Xác Nhận Thao Tác",
       message: "Bạn có chắc sẽ khởi động lại chứ?",
@@ -95,9 +102,10 @@ export default {
         "Tăng dần theo ngày tạo",
         "Giảm dần theo ngày tạo",
         "Tương tác nhiều nhất",
-        "Tương tát ít nhất",
+        "Tương tác ít nhất",
         "Chỉnh sửa cuối cùng",
-        // "Upcoming Birthday",
+        "Sinh nhật sắp tới",
+        "Ngày gặp sắp tới"
       ],
     },
     orderConfirm: {
@@ -108,6 +116,13 @@ export default {
     langConfirm: {
       title: "Thay Đổi Ngôn Ngữ",
       message: "Ngôn ngữ đã được đổi thành",
+      confirmText: "OK",
+    },
+    macOS: {
+      title: "Thành công",
+      message: "Hệ thống đã thành công thay đổi sang",
+      ios: "iOS",
+      mac: "macOS",
       confirmText: "OK",
     },
     defaultDesc: {
@@ -153,6 +168,10 @@ export default {
         week: "Hằng tuần",
         day: "Hằng ngày",
       },
+      error: {
+        title: "Lỗi",
+        message: "Hẹn lịch thông báo không thành công. Vui lòng kiểm tra lại ngày.",
+      },
     },
     editFriend: {
       title: "Chỉnh Sửa Bạn",
@@ -170,7 +189,7 @@ export default {
       },
     },
   },
-  "notifcation-btn": "Thông báo",
+  "notification-btn": "Thông báo",
   defaultFriendDescription: `*"Bạn tốt giống như cỏ bốn lá vậy; khó mà kiếm được và may mắn khi có được."*\n\n# Nhấn vào đây để chỉnh sửa ghi chú!`,
   dateNotInformed: "Không có ngày",
   noNewContactsFound: "Không có thông tin liên lạc mới",
