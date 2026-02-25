@@ -37,13 +37,21 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 
 ## Current Implemented Languages
 
+### In App
+
 - English (en.js)
 - Portuguese (pt.js)
 - Spanish (es.js)
+
+### Done 
+
 - Vietnamese (vi.js) - Thanks to @phnng
-- Russian (ru.js) - THank to @norair
+- Russian (ru.js) - Thank to @norair
 
 ### Planned
 
 - Chinese
-- Israeli
+- Jewish
+- Hokkien
+- What
+- Whatever other language needs demand
