@@ -40,8 +40,10 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 - English (en.js)
 - Portuguese (pt.js)
 - Spanish (es.js)
+- Vietnamese (vi.js) - Thanks to @phnng
+- Russian (ru.js) - THank to @norair
 
 ### Planned
 
-- Russian (ru.js)
-- Vietnamese (vi.js)
+- Chinese
+- Israeli
