@@ -39,19 +39,18 @@ Help make BetterFriend accessible to everyone by contributing translations! 💜
 
 ### In App
 
-- English (en.js)
-- Portuguese (pt.js)
-- Spanish (es.js)
+- English (`en.js`)
+- Portuguese (`pt.js`)
+- Spanish (`es.js`)
 
 ### Done 
 
-- Vietnamese (vi.js) - Thanks to @phnng
-- Russian (ru.js) - Thank to @norair
+- Vietnamese (`vi.js`) - Thanks to [@phnng](https://github.com/phhng)
+- Russian (`ru.js`) - Thank to [@NorairTarasov](https://github.com/NorairTarasov)
 
 ### Planned
 
 - Chinese
 - Jewish
 - Hokkien
-- What
-- Whatever other language needs demand
+- Everything really, just need to know more people
