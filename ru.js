@@ -11,6 +11,7 @@ export default {
   changeOrder: "Порядок",
   exportImportFriends: "Управление Друзьями",
   importContacts: "Синхронизировать Контаков",
+  changeMacOs: "Большой Экран",
   changeDescription: "Описание",
   reportBug: "Сообщить об Ошибке",
   resetApp: "Сброс Данных",

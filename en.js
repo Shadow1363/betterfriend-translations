@@ -9,6 +9,7 @@ export default {
   changeLayout: "Change Layout",
   changeLanguage: "Change Language",
   changeOrder: "Change Order",
+  changeMacOs: "Big Screen Mode",
   exportImportFriends: "Export/Import Friends",
   importContacts: "Import Contacts",
   changeDescription: "Change Default Description",

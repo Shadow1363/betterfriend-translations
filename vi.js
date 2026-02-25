@@ -12,6 +12,7 @@ export default {
   exportImportFriends: "Xuất/Nhập Bạn Bè",
   importContacts: "Nhập Thông Tin Liên Lạc",
   changeDescription: "Đổi Mô Tả Mặc Định",
+  changeMacOs: "Chế Độ Màn Hình Lớn",
   reportBug: "Báo Cáo Lỗi",
   resetApp: "Reset App",
   redeemCode: "Redeem Code",
@@ -36,8 +37,7 @@ export default {
   noTags: "Không có Tags",
   noNotifications: "Chưa có thông báo.",
   friendNotFound: "Bạn ${FRIEND} không tồn tại, hãy thêm họ vào!",
-  friendNotFoundParams:
-    "Không tìm thấy bạn, hãy điều chỉnh thông số tìm kiếm",
+  friendNotFoundParams: "Không tìm thấy bạn, hãy điều chỉnh thông số tìm kiếm",
   birthday: "Sinh nhật",
   meetday: "Ngày gặp",
   totalContactsSelected: "Tổng thông tin liên lạc đã chọn:",
@@ -105,7 +105,7 @@ export default {
         "Tương tác ít nhất",
         "Chỉnh sửa cuối cùng",
         "Sinh nhật sắp tới",
-        "Ngày gặp sắp tới"
+        "Ngày gặp sắp tới",
       ],
     },
     orderConfirm: {
@@ -170,7 +170,8 @@ export default {
       },
       error: {
         title: "Lỗi",
-        message: "Hẹn lịch thông báo không thành công. Vui lòng kiểm tra lại ngày.",
+        message:
+          "Hẹn lịch thông báo không thành công. Vui lòng kiểm tra lại ngày.",
       },
     },
     editFriend: {

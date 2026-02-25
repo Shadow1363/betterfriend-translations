@@ -11,6 +11,7 @@ export default {
   changeOrder: "Cambiar Orden",
   exportImportFriends: "Exportar/Importar Amigos",
   importContacts: "Importar Contatos",
+  changeMacOs: "Modo Pantalla Grande",
   changeDescription: "Trocar Descrição Padrão",
   reportBug: "Relatar Problema",
   resetApp: "Resetar App",
