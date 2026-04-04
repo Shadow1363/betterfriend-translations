@@ -73,8 +73,8 @@ export default {
     importContacts: {
       title: "Add Friends",
       message:
-        "Would you like to import contacts? You can always access contact importing later in the settings.",
-      confirmText: "Import",
+        "To find friends, the app can access your contacts. You can also add friends manually, and you can change this later in Settings.",
+      confirmText: "Continue",
       cancelText: "Add Manually",
     },
     deleteFriend: {

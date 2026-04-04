@@ -72,8 +72,8 @@ export default {
     importContacts: {
       title: "Thêm bạn bè",
       message:
-        "Bạn có muốn thêm từ danh bạ không? Bạn luôn có thể truy cập nhập thêm từ danh bạ trong cài đặt.",
-      confirmText: "Đồng ý",
+        "Để tìm bạn bè, ứng dụng có thể cần quyền truy cập danh bạ của bạn. Bạn cũng có thể thêm thủ công và thay đổi sau trong Cài đặt.",
+      confirmText: "Tiếp tục",
       cancelText: "Thêm thủ công",
     },
     deleteFriend: {

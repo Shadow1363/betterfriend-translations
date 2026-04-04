@@ -73,8 +73,8 @@ export default {
     importContacts: {
       title: "Adicionar Amigos",
       message:
-        "Gostaria de importar contatos? Você sempre pode importar depois nas configurações.",
-      confirmText: "Importar",
+        "Para encontrar amigos, o app pode acessar seus contatos. Você também pode adicionar manualmente e mudar isso depois nas configurações.",
+      confirmText: "Continuar",
       cancelText: "Adicionar manualmente",
     },
     deleteFriend: {
